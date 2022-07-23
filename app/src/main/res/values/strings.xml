@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">TicTacToe</string>
+    <string name="network_is_unavailable_snackbar">"Network is unavailable!"</string>
+
+    <string name="start_screen_header">TicTacToe\nOnline</string>
+
+    <string name="connect_by_id_enter_other_id_placeholder">Enter Room ID…</string>
+    <string name="connect_by_id_enter_other_room">Connect to Other Room</string>
+    <string name="connect_by_id_use_your_room">Use Your Room</string>
+
+    <string name="game_route_your_turn">Your turn!</string>
+    <string name="game_route_rival_turn">Rival turn…</string>
+    <string name="game_route_you_win">You Win!</string>
+    <string name="game_route_you_lost">You Lost!</string>
+    <string name="game_route_game_room_id">Game Room ID</string>
 </resources>

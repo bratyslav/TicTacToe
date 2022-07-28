@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="network_is_unavailable_snackbar">"Интернет мережа недоступна!"</string>
+
+    <string name="start_screen_header">TicTacToe\nОнлайн</string>
+
+    <string name="connect_by_id_enter_other_id_placeholder">Введіть ID кімнати…</string>
+    <string name="connect_by_id_enter_other_room">Приєднатись до іншої кімнати</string>
+    <string name="connect_by_id_use_your_room">Моя кімната</string>
+
+    <string name="game_route_your_turn">Твій хід!</string>
+    <string name="game_route_rival_turn">Хід суперника…</string>
+    <string name="game_route_you_win">Ти виграв!</string>
+    <string name="game_route_you_lost">Ти програв!</string>
+    <string name="game_route_game_room_id">ID ігрової кімнати</string>
+</resources>
